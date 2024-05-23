@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\bin\Debug\Shifr_Isogenii_Kurswork.exe.config
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\bin\Debug\Shifr_Isogenii_Kurswork.exe
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\bin\Debug\Shifr_Isogenii_Kurswork.pdb
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.Form_Isogenii_Kurswork.resources
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.Properties.Resources.resources
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.exe
+C:\Users\PC\Desktop\Kurswork\Shifr_Isogenii_Kurswork\Shifr_Isogenii_Kurswork\obj\Debug\Shifr_Isogenii_Kurswork.pdb
