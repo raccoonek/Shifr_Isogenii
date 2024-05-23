@@ -1,0 +1,22 @@
+C:\Users\irino\source\repos\crypt_RSA\bin\Debug\crypt_RSA.exe.config
+C:\Users\irino\source\repos\crypt_RSA\bin\Debug\crypt_RSA.exe
+C:\Users\irino\source\repos\crypt_RSA\bin\Debug\crypt_RSA.pdb
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.csproj.AssemblyReference.cache
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.Form1.resources
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.Properties.Resources.resources
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.csproj.GenerateResource.cache
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.csproj.CoreCompileInputs.cache
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.exe
+C:\Users\irino\source\repos\crypt_RSA\obj\Debug\crypt_RSA.pdb
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\bin\Debug\crypt_RSA.exe.config
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\bin\Debug\crypt_RSA.exe
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\bin\Debug\crypt_RSA.pdb
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.Form1.resources
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.Properties.Resources.resources
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.exe
+C:\Users\PC\Downloads\Shifr_Isogenii-main (1)\Shifr_Isogenii-main\crypt_RSA\obj\Debug\crypt_RSA.pdb
