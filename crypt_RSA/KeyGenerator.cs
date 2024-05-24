@@ -84,12 +84,8 @@ namespace crypt_RSA
 
         public BigInteger EulerFunction(BigInteger p, BigInteger q)
         {
-            return (p - 1) * (q - 1);
-
-            int m = (int)(p - 1);
-            int n = (int)(q - 1);
-            f = m * n;
-            
+            result = (p - 1) * (q - 1);
+            return result;
         }
 
         public BigInteger GeneratePublicKey(BigInteger e, BigInteger n)        // public key
@@ -98,17 +94,32 @@ namespace crypt_RSA
             {
                 BigInteger ef = BigInteger.Pow(e, f);
                 ef = 1 % n;
-                
             }
             return e;
 
-            
+
         }
 
         public void GeneratePrivateKey(BigInteger e)                  //private key
         {
-            d = (1 / e) % f;
-            
+
+
+        }
+
+        static (BigInteger, BigInteger, BigInteger) gcdex(BigInteger a, BigInteger b)
+        {
+            if (a == 0)
+                return (b, 0, 1);
+            (BigInteger gcd, BigInteger x, BigInteger y) = gcdex(b % a, a);
+            return (gcd, y - (b / a) * x, x);
+        }
+
+        // поиск обратного в поле
+        public BigInteger invmod(BigInteger a, BigInteger n)
+        {
+            BigInteger m = n;
+            (BigInteger g, BigInteger x, BigInteger y) = gcdex(a, m);
+            return g > 1 ? 0 : (x % m + m) % m;
         }
     }
 }
